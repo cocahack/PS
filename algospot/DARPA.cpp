@@ -48,7 +48,7 @@ int main()
     while(c--){
         cin >> n >> m;
         for(int i=0; i < m; ++i) cin >> center[i];
-        cout << solve(n, m) + 0.005 << "\n";
+        cout << floor((solve(n, m) + 0.005) * 100) / 100 << "\n";
     }
 
 
