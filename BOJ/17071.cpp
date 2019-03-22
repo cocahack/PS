@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-constexpr int MAX = 500'000;
+constexpr int MAX = 500000;
 struct Node{
     int m;
     int c;
