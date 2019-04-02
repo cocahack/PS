@@ -4,7 +4,6 @@
 
 2613 - 
 
-[숨바꼭질]: https://www.acmicpc.net/problem/2613
+[2613 숫자구슬 ]: (https://www.acmicpc.net/problem/2613)
 
  (BFS & DP)
-
