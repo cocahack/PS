@@ -32,6 +32,8 @@
 
 [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 
+[소수의 합](https://programmers.co.kr/learn/courses/30/lessons/14406)
+
 [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
 
 [카드게임](https://programmers.co.kr/learn/courses/30/lessons/42896)
