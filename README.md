@@ -1,9 +1,4 @@
-# Problem Solving
-
-<div>
-  <a href="https://www.acmicpc.net/" style="font-size:16px;">BOJ</a>
-</div>
-<br><br>
+## [**BOJ**](https://www.acmicpc.net/)
 
 [2613 - 숫자구슬](https://www.acmicpc.net/problem/2613)
 
@@ -17,10 +12,7 @@
 
 
 
-<div>
-  <a href="https://algospot.com/" style="font-size:16px;">알고스팟</a>
-</div>
-<br><br>
+## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
 
@@ -32,7 +24,4 @@
 
 [GRADUATION](https://algospot.com/judge/problem/read/GRADUATION)
 
-[MEASURETIME](https://algospot.com/judge/problem/read/MEASURETIME)
-
-
-
+[MEASURETIME](
