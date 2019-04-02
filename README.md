@@ -1,6 +1,6 @@
 # Problem Solving
 
-<div style={font-size:16px;}>
+<div style="font-size:16px;">
   <a href="https://www.acmicpc.net/">BOJ</a>
 </div>
 
@@ -16,7 +16,9 @@
 
 
 
-<div style={font-size:16px;}>**[알고스팟](https://algospot.com/)**</div>
+<div style="font-size:16px;">
+  <a href="https://algospot.com/">알고스팟</a>
+</div>
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
 
