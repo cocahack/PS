@@ -1,8 +1,9 @@
 # Problem Solving
 
-<div style="font-size:16px;">
-  <a href="https://www.acmicpc.net/">BOJ</a>
+<div>
+  <a href="https://www.acmicpc.net/" style="font-size:16px;">BOJ</a>
 </div>
+<br><br>
 
 [2613 - 숫자구슬](https://www.acmicpc.net/problem/2613)
 
@@ -16,9 +17,10 @@
 
 
 
-<div style="font-size:16px;">
-  <a href="https://algospot.com/">알고스팟</a>
+<div>
+  <a href="https://algospot.com/" style="font-size:16px;">알고스팟</a>
 </div>
+<br><br>
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
 
