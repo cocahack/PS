@@ -1,6 +1,8 @@
 # Problem Solving
 
-<div style={font-size:16px;}>[**BOJ**](https://www.acmicpc.net/)</div>
+<div style={font-size:16px;}>
+  <a href="https://www.acmicpc.net/">BOJ</a>
+</div>
 
 [2613 - 숫자구슬](https://www.acmicpc.net/problem/2613)
 
