@@ -102,6 +102,8 @@
 
 [1451번 직사각형으로 나누기](https://www.acmicpc.net/problem/1451) - 부분합, 브루트포스
 
+[2186번 문자판](https://www.acmicpc.net/problem/2186) - DFS, DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
