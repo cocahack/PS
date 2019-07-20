@@ -104,6 +104,16 @@
 
 [2186번 문자판](https://www.acmicpc.net/problem/2186) - DFS, DP
 
+[10825번 국영수](https://www.acmicpc.net/problem/10825) - 정렬
+
+[11054번 가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) - DP
+
+[11722번 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) - DP
+
+[1699번 제곱수의 합](https://www.acmicpc.net/problem/1699) - DP
+
+[2225번 합분해](https://www.acmicpc.net/problem/2225) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
