@@ -114,6 +114,12 @@
 
 [2225번 합분해](https://www.acmicpc.net/problem/2225) - DP
 
+[6588번 골드바흐의 추측](https://www.acmicpc.net/problem/6588) - 에라토스테네스의 체
+
+[1015번 수열 정렬](https://www.acmicpc.net/problem/1015) - 정렬
+
+[10819번 차이를 최대로](https://www.acmicpc.net/problem/10819) - 순열
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
