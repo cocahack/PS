@@ -122,6 +122,10 @@
 
 [11060번 점프 점프](https://www.acmicpc.net/problem/11060) - DP
 
+[1978번 소수 찾기](https://www.acmicpc.net/problem/1978) - 에라토스테네스의 체
+
+[1929번 소수 구하기](https://www.acmicpc.net/problem/1929) - 에라토스테네스의 체
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
