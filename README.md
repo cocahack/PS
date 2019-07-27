@@ -132,6 +132,10 @@
 
 [14624번 전북대학교](https://www.acmicpc.net/problem/14624) - 구현
 
+[2217번 로프](https://www.acmicpc.net/problem/2217) - 그리디
+
+[1744번 수 묶기](https://www.acmicpc.net/problem/1744) - 그리디
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
