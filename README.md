@@ -136,6 +136,10 @@
 
 [1744번 수 묶기](https://www.acmicpc.net/problem/1744) - 그리디
 
+[1987번 알파벳](https://www.acmicpc.net/problem/1987) - 백트래킹
+
+[9019번 DSLR](https://www.acmicpc.net/problem/9019) - BFS
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
@@ -221,7 +225,7 @@
 
 ## geeksforgeeks
 
-[Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1) - BS
+[Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1) - BST
 
 ## 구글 Code Jam
 
