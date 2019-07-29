@@ -213,6 +213,8 @@
 
 [단속 카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) - 그리디
 
+[야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) - 우선순위 큐
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
