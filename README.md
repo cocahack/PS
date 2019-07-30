@@ -140,6 +140,8 @@
 
 [9019번 DSLR](https://www.acmicpc.net/problem/9019) - BFS
 
+[2747번 피보나치 수](https://www.acmicpc.net/problem/2747) - 그리디
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
