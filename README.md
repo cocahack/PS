@@ -142,6 +142,10 @@
 
 [2747번 피보나치 수](https://www.acmicpc.net/problem/2747) - 그리디
 
+[1701번 Cudeditor](https://www.acmicpc.net/problem/1701) - KMP
+
+[1305번 광고](https://www.acmicpc.net/problem/1305) - KMP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
