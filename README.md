@@ -146,6 +146,8 @@
 
 [1305번 광고](https://www.acmicpc.net/problem/1305) - KMP
 
+[4354번 문자열 제곱](https://www.acmicpc.net/problem/4354) - KMP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
