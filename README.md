@@ -148,6 +148,8 @@
 
 [4354번 문자열 제곱](https://www.acmicpc.net/problem/4354) - KMP
 
+[2056번 작업](https://www.acmicpc.net/problem/2056) - 위상정렬
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
