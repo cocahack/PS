@@ -162,6 +162,12 @@
 
 [17298번 오큰수](https://www.acmicpc.net/problem/17298) - Next Greater Element(stack)
 
+[17299번 오등큰수](https://www.acmicpc.net/problem/17299) - Next Greater Frequency Element(stack)
+
+[1822번 차집합](https://www.acmicpc.net/problem/1822) - BST
+
+[1915번 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
