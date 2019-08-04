@@ -154,6 +154,14 @@
 
 [10808번 알파벳 개수](https://www.acmicpc.net/problem/10808)
 
+[1963번 소수 경로](https://www.acmicpc.net/problem/1963) - 에라토스테네스의 체, BFS
+
+[11655번 ROT13](https://www.acmicpc.net/problem/11655)
+
+[10820번 문자열 분석](https://www.acmicpc.net/problem/10820)
+
+[17298번 오큰수](https://www.acmicpc.net/problem/17298) - Next Greater Element(stack)
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
