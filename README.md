@@ -168,6 +168,12 @@
 
 [1915번 가장 큰 정사각형](https://www.acmicpc.net/problem/1915) - DP
 
+[1502번 숫자 퍼즐 ≤ 8](https://www.acmicpc.net/problem/1502) - 백트래킹
+
+[11657번 타임머신](https://www.acmicpc.net/problem/11657) - 벨만-포드
+
+[1865번 웜홀](https://www.acmicpc.net/problem/1865) - 벨만-포드
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
