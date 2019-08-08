@@ -176,7 +176,11 @@
 
 [11403번 경로 찾기](https://www.acmicpc.net/problem/11403) - 플로이드-와샬
 
-[1689번 겹치는 선분](https://www.acmicpc.net/problem/1689) - 라인 스위
+[1689번 겹치는 선분](https://www.acmicpc.net/problem/1689) - 라인 스위핑
+
+[10809번 알파벳 찾기](https://www.acmicpc.net/problem/10809) 
+
+[2004번 조합 0의 개수](https://www.acmicpc.net/problem/2004) - 조합, 규칙 찾기 
 
 ## **[알고스팟](https://algospot.com/)**
 
