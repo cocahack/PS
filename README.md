@@ -182,6 +182,8 @@
 
 [2004번 조합 0의 개수](https://www.acmicpc.net/problem/2004) - 조합, 규칙 찾기 
 
+[10971번 외판원 순회 2](https://www.acmicpc.net/problem/10971) - 순열
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
