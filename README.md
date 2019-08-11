@@ -186,6 +186,12 @@
 
 [11404번 플로이드](https://www.acmicpc.net/problem/11404) - 플로이드-와샬
 
+[2057번 팩토리얼 분해](https://www.acmicpc.net/problem/2057) - 완전탐색
+
+[2285번 우체국](https://www.acmicpc.net/problem/2285)
+
+[2343번 기타 레슨](https://www.acmicpc.net/problem/2343) - 이분탐색
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
