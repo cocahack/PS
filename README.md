@@ -192,6 +192,8 @@
 
 [2343번 기타 레슨](https://www.acmicpc.net/problem/2343) - 이분탐색
 
+[1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) - 완전탐색
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
