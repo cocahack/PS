@@ -196,6 +196,8 @@
 
 [4963번 섬의 개수](https://www.acmicpc.net/problem/4963) - DFS
 
+[1676번 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) - 수학
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
