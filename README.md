@@ -198,6 +198,10 @@
 
 [1676번 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676) - 수학
 
+[1753번 최단경로](https://www.acmicpc.net/problem/1753) - 다익스트라
+
+[5086번 배수와 약수](https://www.acmicpc.net/problem/5086) - 수학
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
