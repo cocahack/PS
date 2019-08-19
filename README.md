@@ -202,6 +202,8 @@
 
 [5086번 배수와 약수](https://www.acmicpc.net/problem/5086) - 수학
 
+[2630번 색종이 만들기](https://www.acmicpc.net/problem/2630) - 분할정복
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
@@ -276,6 +278,8 @@
 [단속 카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) - 그리디
 
 [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) - 우선순위 큐
+
+[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) - 조합
 
 ## 해커랭크
 
