@@ -204,6 +204,8 @@
 
 [2630번 색종이 만들기](https://www.acmicpc.net/problem/2630) - 분할정복
 
+[5430번 AC](https://www.acmicpc.net/problem/5430) - Deque
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
