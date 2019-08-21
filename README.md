@@ -283,6 +283,10 @@
 
 [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) - 조합
 
+[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) - 비트연산
+
+[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) - 연결리스트, 해시
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
