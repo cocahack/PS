@@ -1,24 +1,18 @@
 ## [**BOJ**](https://www.acmicpc.net/)
 
-[1000번 A+B](https://www.acmicpc.net/problem/1000) - 입출력
+[2613 - 숫자구슬](https://www.acmicpc.net/problem/2613) - 이분 탐색, solution 만들기
 
-[1001번 A-B](https://www.acmicpc.net/problem/1001) - 입출력
+[6549 - 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) - Divide and conquer
 
-[2557번 A+B](https://www.acmicpc.net/problem/2557) - 입출력
+[7578 - 공장](https://www.acmicpc.net/problem/7578) - Fenwick tree
 
-[2613 - 숫자구슬](https://www.acmicpc.net/problem/2613)
-
-[6549 - 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)
-
-[7578 - 공장](https://www.acmicpc.net/problem/7578)
-
-[17071 - 숨바꼭질 5](https://www.acmicpc.net/problem/17071)
+[17071 - 숨바꼭질 5](https://www.acmicpc.net/problem/17071) - BFS, DP
 
 [11048 - 이동하기](https://www.acmicpc.net/problem/11048)
 
-[1167 - 트리의 지름](https://www.acmicpc.net/problem/1167)
+[1167 - 트리의 지름](https://www.acmicpc.net/problem/1167) - 트리
 
-[1561 - 놀이공원](https://www.acmicpc.net/problem/1561)
+[1561 - 놀이공원](https://www.acmicpc.net/problem/1561) - 이분 탐색
 
 [2839번 설탕 배달](https://www.acmicpc.net/problem/2839) - 구현
 
@@ -227,15 +221,15 @@
 
 ## **[프로그래머스](https://programmers.co.kr/)**
 
-[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - 다익스트라
 
 [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 
 [소수의 합](https://programmers.co.kr/learn/courses/30/lessons/14406)
 
-[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
+[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) - 이분 탐색
 
-[카드게임](https://programmers.co.kr/learn/courses/30/lessons/42896)
+[카드게임](https://programmers.co.kr/learn/courses/30/lessons/42896) - DP
 
 [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) - Floyd-Warshall 알고리즘
 
@@ -277,7 +271,7 @@
 
 [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) - 스택
 
-[숫자 게](https://programmers.co.kr/learn/courses/30/lessons/12987) - 그리디
+[숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) - 그리디
 
 [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) - 해시
 
