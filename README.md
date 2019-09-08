@@ -204,6 +204,8 @@
 
 [1037번 약수](https://www.acmicpc.net/problem/1037) - 정수론
 
+[3190번 뱀](https://www.acmicpc.net/problem/3190) - 시뮬레이션
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
