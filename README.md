@@ -206,6 +206,8 @@
 
 [3190번 뱀](https://www.acmicpc.net/problem/3190) - 시뮬레이션
 
+[1094번 막대기](https://www.acmicpc.net/problem/1094) - 시뮬레이션
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
