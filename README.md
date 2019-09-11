@@ -208,6 +208,10 @@
 
 [1094번 막대기](https://www.acmicpc.net/problem/1094) - 시뮬레이션
 
+[13458번 시험 감독](https://www.acmicpc.net/problem/13458) - 시뮬레이션
+
+[14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499) - 시뮬레이션
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
