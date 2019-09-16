@@ -212,6 +212,8 @@
 
 [14499번 주사위 굴리기](https://www.acmicpc.net/problem/14499) - 시뮬레이션
 
+[14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - 시뮬레이션
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
