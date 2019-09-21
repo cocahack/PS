@@ -214,6 +214,10 @@
 
 [14888번 연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - 시뮬레이션
 
+[2602번 돌다리 건너기](https://www.acmicpc.net/problem/2602) - DP
+
+[1325번 효율적인 해킹](https://www.acmicpc.net/problem/1325) - 그래프, DFS or BFS
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
