@@ -218,6 +218,8 @@
 
 [1325번 효율적인 해킹](https://www.acmicpc.net/problem/1325) - 그래프, DFS or BFS
 
+[14501번 퇴사](https://www.acmicpc.net/problem/14501) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
