@@ -220,6 +220,8 @@
 
 [14501번 퇴사](https://www.acmicpc.net/problem/14501) - DP
 
+[1904번 01타일](https://www.acmicpc.net/problem/1904) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
@@ -320,6 +322,10 @@
 ## geeksforgeeks
 
 [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1) - BST
+
+[Detect cycle in a directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) - DFS
+
+[Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem/0) - stack
 
 ## 구글 Code Jam
 
