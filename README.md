@@ -222,6 +222,8 @@
 
 [1904번 01타일](https://www.acmicpc.net/problem/1904) - DP
 
+[14725번 개미굴](https://www.acmicpc.net/problem/14725) - 트리, 재귀
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
