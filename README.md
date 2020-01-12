@@ -228,6 +228,10 @@
 
 [11066번 파일 합치기](https://www.acmicpc.net/problem/11066) - DP
 
+[2606번 바이러스](https://www.acmicpc.net/problem/2606) - DFS
+
+[2002번 추월](https://www.acmicpc.net/problem/2002) - 구현, 스택
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
