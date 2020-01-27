@@ -232,6 +232,8 @@
 
 [2002번 추월](https://www.acmicpc.net/problem/2002) - 구현, 스택
 
+[14500번 테트로미노](https://www.acmicpc.net/problem/14500) - DFS
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
@@ -320,6 +322,8 @@
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) - 재귀 
 
 [우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) - SQL
+
+[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) - 수학(GCD)
 
 ## 해커랭크
 
