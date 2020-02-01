@@ -238,6 +238,10 @@
 
 [14503번 로봇 청소기](https://www.acmicpc.net/problem/14503) - 시뮬레이션
 
+[1713번 후보 추천하기](https://www.acmicpc.net/problem/1713) - 구현
+
+[1062번 가르침](https://www.acmicpc.net/problem/1062) - 백트래킹
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
