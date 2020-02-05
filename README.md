@@ -242,6 +242,12 @@
 
 [1062번 가르침](https://www.acmicpc.net/problem/1062) - 백트래킹
 
+[3980번 선발 명단](https://www.acmicpc.net/problem/3980) - 백트래킹
+
+[1398번 동전 문제](https://www.acmicpc.net/problem/1398) - DP
+
+[2003번 수들의 합 2](https://www.acmicpc.net/problem/2003) - 투 포인터
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
