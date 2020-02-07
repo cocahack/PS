@@ -366,3 +366,11 @@
 ## Leetcode
 
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 배열
+
+[12. Integer to Romam](https://leetcode.com/problems/integer-to-roman/) - 문자열
+
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - 문자열
+
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 정렬
+
+[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - 트리
