@@ -339,6 +339,8 @@
 
 [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) - 수학(GCD)
 
+[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - 힙
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
@@ -374,3 +376,15 @@
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - 정렬
 
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) - 트리
+
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/) - 백트래킹
+
+[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) - 배열
+
+[139. Word Break](https://leetcode.com/problems/word-break/) - DP
+
+[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) - 슬라이딩 윈도우, 해시
+
+[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) - 슬라이딩 윈도우, 해시
+
+[78. Subsets](https://leetcode.com/problems/subsets/) - 백트래킹
