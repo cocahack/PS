@@ -341,6 +341,8 @@
 
 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) - 힙
 
+[저울](https://programmers.co.kr/learn/courses/30/lessons/42886) - 그리디
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
@@ -388,3 +390,9 @@
 [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) - 슬라이딩 윈도우, 해시
 
 [78. Subsets](https://leetcode.com/problems/subsets/) - 백트래킹
+
+[776. Split BST](https://leetcode.com/problems/split-bst/) - 트리
+
+[394. Decode String](https://leetcode.com/problems/decode-string/) - 스택
+
+[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) - 구현
