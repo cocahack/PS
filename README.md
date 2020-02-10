@@ -396,3 +396,11 @@
 [394. Decode String](https://leetcode.com/problems/decode-string/) - 스택
 
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) - 구현
+
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - DP
+
+[148. Sort List](https://leetcode.com/problems/sort-list/) - 리스트, 정렬, 분할정복
+
+[939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) - 해시
+
+[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) - 배열
