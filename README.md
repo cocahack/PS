@@ -404,3 +404,11 @@
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) - 해시
 
 [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) - 배열
+
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/) - 해시
+
+[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) - 힙
+
+[207. Course Schedule](https://leetcode.com/problems/course-schedule/) - 위상정렬
+
+[221. Maximal Square](https://leetcode.com/problems/maximal-square/) - DP
