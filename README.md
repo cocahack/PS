@@ -418,3 +418,7 @@
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/) - DFS
 
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - 트라이
+
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) - 카탈란 수
+
+[198. House Robber](https://leetcode.com/problems/house-robber/) - DP
