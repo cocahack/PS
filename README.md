@@ -430,3 +430,7 @@
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/) - 수학
 
 [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) - DFS
+
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) - 빠른 제곱
+
+[1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) - 구현
