@@ -426,3 +426,7 @@
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/) - BFS
 
 [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) - DP
+
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/) - 수학
+
+[1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) - DFS
