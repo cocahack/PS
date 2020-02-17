@@ -434,3 +434,5 @@
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) - 빠른 제곱
 
 [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) - 구현
+
+[1188. Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/) - 멀티 스레드, 생산자-소비자
