@@ -436,3 +436,5 @@
 [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) - 구현
 
 [1188. Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/) - 멀티 스레드, 생산자-소비자
+
+[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - 정렬
