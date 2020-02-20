@@ -438,3 +438,5 @@
 [1188. Design Bounded Blocking Queue](https://leetcode.com/problems/design-bounded-blocking-queue/) - 멀티 스레드, 생산자-소비자
 
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - 정렬
+
+[1181. Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) - 구현
