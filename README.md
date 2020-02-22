@@ -440,3 +440,6 @@
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) - 정렬
 
 [1181. Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) - 구현
+
+[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) - 트리
+
