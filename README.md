@@ -453,3 +453,4 @@
 
 [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) - 트리
 
+[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - 연결 리스트
