@@ -248,6 +248,8 @@
 
 [2003번 수들의 합 2](https://www.acmicpc.net/problem/2003) - 투 포인터
 
+[2573번 빙산](https://www.acmicpc.net/problem/2573) - DFS
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
