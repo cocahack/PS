@@ -250,6 +250,8 @@
 
 [2573번 빙산](https://www.acmicpc.net/problem/2573) - DFS
 
+[6603번 로또](https://www.acmicpc.net/problem/6603) - 완전탐색
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
