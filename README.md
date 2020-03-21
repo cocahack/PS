@@ -258,6 +258,8 @@
 
 [15681번 트리와 쿼리](https://www.acmicpc.net/problem/15681) - 트리, DP
 
+[17404번 RGB거리 2](https://www.acmicpc.net/problem/17404) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
