@@ -260,6 +260,16 @@
 
 [17404번 RGB거리 2](https://www.acmicpc.net/problem/17404) - DP
 
+[7453번 합이 0인 네 정수](https://www.acmicpc.net/problem/7453) - 브루트포스, 이분탐색
+
+[15663번 N과 M (9)](https://www.acmicpc.net/problem/15663) - 완전탐색
+
+[15664번 N과 M (10)](https://www.acmicpc.net/problem/15664) - 완전탐색
+
+[15665번 N과 M (11)](https://www.acmicpc.net/problem/15665) - 완전탐색
+
+[15666번 N과 M (12)](https://www.acmicpc.net/problem/15666) - 완전탐색
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
