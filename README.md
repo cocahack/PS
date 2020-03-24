@@ -270,6 +270,8 @@
 
 [15666번 N과 M (12)](https://www.acmicpc.net/problem/15666) - 완전탐색
 
+[14890번 경사로](https://www.acmicpc.net/problem/14890) - 시뮬레이션
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
