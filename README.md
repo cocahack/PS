@@ -272,6 +272,8 @@
 
 [14890번 경사로](https://www.acmicpc.net/problem/14890) - 시뮬레이션
 
+[1644번 소수의 연속합](https://www.acmicpc.net/problem/1644) - 에라토스테네스의 체, 투 포인트
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
