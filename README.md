@@ -276,6 +276,8 @@
 
 [16947번 서울 지하철 2호선](https://www.acmicpc.net/problem/16947) - 그래프, 사이클 찾기
 
+[13398번 연속합 2](https://www.acmicpc.net/problem/13398) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
@@ -499,5 +501,5 @@
 
 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) - 배열
 
-
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/) - 배열
 
