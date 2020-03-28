@@ -47,7 +47,7 @@ int main()
   cin >> N;
   for(int i=0; i<N; ++i) for(int j=0; j<N; ++j) cin >> board[i][j];
 
-  recur(-1, 0);
+  recur(0, 0);
 
   cout << answer;
   return 0;
