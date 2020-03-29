@@ -278,6 +278,8 @@
 
 [13398번 연속합 2](https://www.acmicpc.net/problem/13398) - DP
 
+[14425번 문자열 집합](https://www.acmicpc.net/problem/14425) - 트라이
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
