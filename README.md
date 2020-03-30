@@ -375,6 +375,8 @@
 
 [저울](https://programmers.co.kr/learn/courses/30/lessons/42886) - 그리디
 
+[보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832) - DP
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
