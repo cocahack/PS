@@ -377,6 +377,16 @@
 
 [보행자 천국](https://programmers.co.kr/learn/courses/30/lessons/1832) - DP
 
+[크레인 인형기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) - 구현, 스택
+
+[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - 구현
+
+[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) - 구현, 완전탐색, 경우의 수 찾기
+
+[호텔 방 배정](https://programmers.co.kr/learn/courses/30/lessons/64063) - disjoint set
+
+[징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) - 이분탐색
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
@@ -506,8 +516,4 @@
 [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) - 배열
 
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/) - 배열
-
-## [ 컨테스트 ]
-
-2020년 3월 28일
 
