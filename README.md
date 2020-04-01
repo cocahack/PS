@@ -387,6 +387,8 @@
 
 [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062) - 이분탐색
 
+[기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) - 구현
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
