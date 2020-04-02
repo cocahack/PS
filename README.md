@@ -280,6 +280,8 @@
 
 [14425번 문자열 집합](https://www.acmicpc.net/problem/14425) - 트라이
 
+[3044번 자전거 경주 준비하기](https://www.acmicpc.net/problem/3044) - 위상정렬, DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
