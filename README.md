@@ -282,6 +282,8 @@
 
 [3044번 자전거 경주 준비하기](https://www.acmicpc.net/problem/3044) - 위상정렬, DP
 
+[15661번 링크와 스타트](https://www.acmicpc.net/problem/15661) - 브루트 포스
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
