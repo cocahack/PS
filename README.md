@@ -393,6 +393,10 @@
 
 [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) - 구현
 
+[방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) - 시뮬레이션
+
+[줄 서는 방법](https://programmers.co.kr/learn/courses/30/lessons/12936) - 구현, 수학
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
