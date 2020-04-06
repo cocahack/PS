@@ -284,6 +284,8 @@
 
 [15661번 링크와 스타트](https://www.acmicpc.net/problem/15661) - 브루트 포스
 
+[2357번 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) - 세그먼트 트리
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
