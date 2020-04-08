@@ -403,6 +403,10 @@
 
 [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907) - DP
 
+[지형 편집](https://programmers.co.kr/learn/courses/30/lessons/12984) - 삼분 탐색
+
+[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678) - 구현
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
