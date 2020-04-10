@@ -286,6 +286,8 @@
 
 [2357번 최솟값과 최댓값](https://www.acmicpc.net/problem/2357) - 세그먼트 트리
 
+[15486번 퇴사 2](https://www.acmicpc.net/problem/15486) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
