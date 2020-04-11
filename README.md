@@ -288,6 +288,8 @@
 
 [15486번 퇴사 2](https://www.acmicpc.net/problem/15486) - DP
 
+[2150번 Strongly Connected Component](https://www.acmicpc.net/problem/2150) - SCC
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
