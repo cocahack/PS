@@ -290,6 +290,8 @@
 
 [2150번 Strongly Connected Component](https://www.acmicpc.net/problem/2150) - SCC
 
+[5052번 전화번호 목록](https://www.acmicpc.net/problem/5052) - 트라이
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
