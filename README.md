@@ -545,3 +545,5 @@
 
 [211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) - 트라이
 
+[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - 우선순위 큐
+
