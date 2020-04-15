@@ -292,6 +292,8 @@
 
 [5052번 전화번호 목록](https://www.acmicpc.net/problem/5052) - 트라이
 
+[2631번 줄세우기](https://www.acmicpc.net/problem/2631) - DP, LIS
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
