@@ -417,6 +417,8 @@
 
 [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676) - 구현
 
+[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) - 스택
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
