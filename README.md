@@ -419,6 +419,10 @@
 
 [올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) - 스택
 
+[쿠키 구입](https://programmers.co.kr/learn/courses/30/lessons/49995) - 부분 합
+
+[단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) - 완전탐색
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
