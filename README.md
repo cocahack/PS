@@ -558,3 +558,8 @@
 [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) - 우선순위 큐
 
 [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) - DP
+
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) - 해시, 배열
+
+[676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) - 트라이
+
