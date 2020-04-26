@@ -423,6 +423,8 @@
 
 [단체사진 찍기](https://programmers.co.kr/learn/courses/30/lessons/1835) - 완전탐색
 
+[자동완성](https://programmers.co.kr/learn/courses/30/lessons/17685) - 트라이
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
@@ -564,4 +566,7 @@
 [676. Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) - 트라이
 
 [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) - 비트 연산
+
+[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) - 트리
+
 
