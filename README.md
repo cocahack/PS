@@ -294,6 +294,8 @@
 
 [2631번 줄세우기](https://www.acmicpc.net/problem/2631) - DP, LIS
 
+[2243번 사탕상자](https://www.acmicpc.net/problem/2243) - 팬윅 트리 + 이분 탐색
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
