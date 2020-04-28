@@ -296,6 +296,8 @@
 
 [2243번 사탕상자](https://www.acmicpc.net/problem/2243) - 팬윅 트리 + 이분 탐색
 
+[1424번 새 앨범](https://www.acmicpc.net/problem/1424) - 그리디
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
