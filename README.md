@@ -300,6 +300,8 @@
 
 [3080번 아름다운 이름](https://www.acmicpc.net/problem/3080) - 트라이
 
+[13199번 치킨 먹고 싶다](https://www.acmicpc.net/problem/13199) - 수학
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
