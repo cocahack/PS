@@ -435,6 +435,8 @@
 
 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) - 시뮬레이션
 
+[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) - 완전 탐색
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
