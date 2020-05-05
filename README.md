@@ -441,6 +441,8 @@
 
 [가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) - 트라이
 
+[압축](https://programmers.co.kr/learn/courses/30/lessons/17684) - 구현, 해시
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
