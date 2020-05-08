@@ -302,6 +302,8 @@
 
 [13199번 치킨 먹고 싶다](https://www.acmicpc.net/problem/13199) - 수학
 
+[5212번 지구 온난화](https://www.acmicpc.net/problem/5212) - 구현
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
