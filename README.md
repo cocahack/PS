@@ -593,4 +593,5 @@
 
 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) - 트리
 
+[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - 트리
 
