@@ -304,6 +304,8 @@
 
 [5212번 지구 온난화](https://www.acmicpc.net/problem/5212) - 구현
 
+[12852번 1로 만들기 2](https://www.acmicpc.net/problem/12852) - DP
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
