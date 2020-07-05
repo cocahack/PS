@@ -599,3 +599,8 @@
 
 [130. Surrounded Region](https://leetcode.com/problems/surrounded-region) - DFS
 
+[264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) - 우선순위 큐, 해시 / DP
+
+[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/) - 비트 연산
+
+
