@@ -306,6 +306,8 @@
 
 [12852번 1로 만들기 2](https://www.acmicpc.net/problem/12852) - DP
 
+[9935번 문자열 폭발](https://www.acmicpc.net/problem/9935) - 데크, 스택
+
 ## **[알고스팟](https://algospot.com/)**
 
 [ARCTIC](https://algospot.com/judge/problem/read/ARCTIC)
