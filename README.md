@@ -455,6 +455,8 @@
 
 [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259) - BFS, DP
 
+[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) - 시뮬레이션
+
 ## 해커랭크
 
 [Array - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) - 자료구조
