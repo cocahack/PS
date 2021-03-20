@@ -467,6 +467,8 @@
 
 [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle/problem) - 백트래킹
 
+[Max Array Sum](https://www.hackerrank.com/challenges/max-array-sum/problem) - DP
+
 ## geeksforgeeks
 
 [Delete a node from BST](https://practice.geeksforgeeks.org/problems/delete-a-node-from-bst/1) - BST
